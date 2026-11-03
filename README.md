@@ -148,21 +148,27 @@ ai-governance-responsible-ai-risk-observatory/
 
 ## Current Project Status
 
-**Completed:** Data preparation, exploratory analysis, data-quality validation, SQL database and queries, Python-SQL cross-validation, governance framework register, proposed control mapping, Power BI source-table exports and integrated Excel workbook.
+### Completed
 
-**In progress:** Final Power BI report validation and dashboard visual publication. The prepared Power BI tables and relationship manifest are included; dashboard screenshots and the final validated PBIX will be added separately.
+- Source-data ingestion and provenance documentation.
+- Data profiling, cleaning and validation.
+- Exploratory analysis of model, dimension, selected-case and regional benchmark summaries.
+- Documentation of ten analytical findings.
+- SQLite relational database and nine analytical SQL queries.
+- Python-SQL cross-validation.
+- Governance framework register and proposed control register.
+- Framework-to-control mapping and evidence traceability.
+- Governance mapping validation.
+- Integrated 29-worksheet Excel workbook.
+- Thirteen Power BI-ready semantic-model tables and eight documented relationships.
 
-## Limitations and Responsible Use
+### In progress
 
-- Published aggregate scores are not independently verified through raw model response testing.
-- Rounded publisher-reported scores limit the precision of comparisons.
-- Selected stress-test examples are not representative of the complete response population.
-- Missing case-model observations are not imputed.
-- Regional summaries are descriptive and are not treated as representative population estimates.
-- Proposed governance controls have not been assessed for implementation effectiveness.
-- Framework mapping does not establish that a particular law applies to a particular organisation.
-- This project is educational research and is not legal advice, a compliance certification or a guarantee of AI-system safety.
+- Recovery and reconstruction of the Power BI semantic model.
+- Final validation of the four-page interactive dashboard.
+- Publication of Python analytical charts and final Power BI dashboard screenshots.
 
+The currently published repository contains the analytical datasets, code, validation evidence and supporting documentation. No corrupted PBIX file is included. The final PBIX will be published only after successful validation.
 ## Data Provenance
 
 Original source names, source dates, source URLs and verification information are retained in the project datasets and governance framework register.
