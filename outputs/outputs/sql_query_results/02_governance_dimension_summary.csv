@@ -1,0 +1,9 @@
+dimension,mean_score,minimum_score,maximum_score,model_observations
+Privacy,9.193,9.17,9.24,3
+Safety,8.54,8.2,8.72,3
+Fairness,7.59,7.48,7.65,3
+User Impact,7.42,7.32,7.48,3
+Reliability,7.137,7.07,7.18,3
+Inclusivity,6.533,6.38,6.61,3
+Transparency,6.39,6.29,6.44,3
+Accountability,6.13,5.99,6.2,3

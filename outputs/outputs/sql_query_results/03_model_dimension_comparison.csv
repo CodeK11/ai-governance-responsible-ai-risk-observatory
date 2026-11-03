@@ -1,0 +1,25 @@
+model,dimension,score
+sarvam-105b,Accountability,6.2
+sarvam-30b,Accountability,6.2
+sarvam-m,Accountability,5.99
+sarvam-105b,Fairness,7.64
+sarvam-30b,Fairness,7.65
+sarvam-m,Fairness,7.48
+sarvam-105b,Inclusivity,6.61
+sarvam-30b,Inclusivity,6.61
+sarvam-m,Inclusivity,6.38
+sarvam-105b,Privacy,9.24
+sarvam-30b,Privacy,9.17
+sarvam-m,Privacy,9.17
+sarvam-105b,Reliability,7.16
+sarvam-30b,Reliability,7.18
+sarvam-m,Reliability,7.07
+sarvam-105b,Safety,8.72
+sarvam-30b,Safety,8.7
+sarvam-m,Safety,8.2
+sarvam-105b,Transparency,6.44
+sarvam-30b,Transparency,6.44
+sarvam-m,Transparency,6.29
+sarvam-105b,User Impact,7.46
+sarvam-30b,User Impact,7.48
+sarvam-m,User Impact,7.32
