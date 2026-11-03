@@ -1,0 +1,9 @@
+dimension,mean_reported_score,median_reported_score,minimum_reported_score,maximum_reported_score,model_count,source_observations,score_range,aggregation_basis
+Accountability,6.13,6.2,5.99,6.2,3,3,0.20999999999999996,Descriptive average of publisher-reported model scores
+Fairness,7.59,7.64,7.48,7.65,3,3,0.16999999999999993,Descriptive average of publisher-reported model scores
+Inclusivity,6.533333333333334,6.61,6.38,6.61,3,3,0.23000000000000043,Descriptive average of publisher-reported model scores
+Privacy,9.193333333333333,9.17,9.17,9.24,3,3,0.07000000000000028,Descriptive average of publisher-reported model scores
+Reliability,7.136666666666667,7.16,7.07,7.18,3,3,0.10999999999999943,Descriptive average of publisher-reported model scores
+Safety,8.54,8.7,8.2,8.72,3,3,0.5200000000000014,Descriptive average of publisher-reported model scores
+Transparency,6.390000000000001,6.44,6.29,6.44,3,3,0.15000000000000036,Descriptive average of publisher-reported model scores
+User Impact,7.420000000000001,7.46,7.32,7.48,3,3,0.16000000000000014,Descriptive average of publisher-reported model scores
