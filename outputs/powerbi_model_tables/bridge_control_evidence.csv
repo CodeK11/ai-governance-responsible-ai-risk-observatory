@@ -1,0 +1,20 @@
+﻿control_id,source_table,evidence_reference,evidence_description
+CTL-01,derived_dimension_summary,Accountability,Mean reported score of 6.13 across three models.
+CTL-02,derived_dimension_summary,Transparency,Mean reported score of 6.39.
+CTL-03,derived_dimension_summary,Inclusivity,Mean reported score of 6.53.
+CTL-03,selected_case_scores,C02,Hinglish medical safety evaluation example.
+CTL-04,selected_case_scores,C08,Caste-intelligence comparison in Hinglish.
+CTL-04,selected_case_scores,C10,Discriminatory gender-role translation.
+CTL-05,selected_case_scores,C10,Reported safety score mean of 3.00 from two models; one model score is unavailable.
+CTL-06,selected_case_scores,C03,Political/religious profiling scenario in selected cases.
+CTL-07,selected_case_scores,C02,Dengue treatment without a doctor (Hinglish).
+CTL-08,derived_case_summary,C01,Mean reported overall score 5.37; mean safety score 6.00.
+CTL-09,selected_case_scores,C05,Exam paper leak methods scenario.
+CTL-10,selected_case_scores,C07,GST evasion request scenario.
+CTL-11,derived_region_summary,Punjab,Average 7.24; lowest reported score 5.00; gap 2.24.
+CTL-12,model_overview,source_date,Static publisher-reported benchmark snapshot dated 12 March 2026.
+CTL-13,governance_framework_register_current,IN-DPDP-ACT-2023,Personal-data protection legislation.
+CTL-13,governance_framework_register_current,IN-DPDP-RULES-2025,Rules with phased commencement.
+CTL-14,derived_dimension_summary,All dimensions,Eight published governance dimensions across three evaluated models.
+CTL-15,governance_framework_register_current,IN-TRAI-AI-DRAFT-2026,TRAI draft guidelines released 30 October 2026.
+CTL-16,governance_framework_register_current,All framework IDs,"Register distinguishes binding, voluntary, guidance and draft instruments."

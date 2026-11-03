@@ -1,0 +1,77 @@
+﻿control_id,framework_id,mapping_rationale,mapping_status
+CTL-01,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-01,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-01,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-01,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-02,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-02,EU-AI-ACT,Binding EU regulation within its territorial and material scope. Applicability and system classification are not established by this benchmark project.,Reference mapping - applicability not assessed
+CTL-02,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-02,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-02,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-03,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-03,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-03,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-03,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-04,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-04,EU-AI-ACT,Binding EU regulation within its territorial and material scope. Applicability and system classification are not established by this benchmark project.,Reference mapping - applicability not assessed
+CTL-04,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-04,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-04,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-05,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-05,EU-AI-ACT,Binding EU regulation within its territorial and material scope. Applicability and system classification are not established by this benchmark project.,Reference mapping - applicability not assessed
+CTL-05,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-05,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-05,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-06,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-06,IN-DPDP-ACT-2023,Binding legislation subject to territorial and material applicability and phased commencement. Apply only where digital personal data processing falls within scope.,Reference mapping - applicability not assessed
+CTL-06,IN-DPDP-RULES-2025,Binding subordinate legislation subject to phased commencement. Apply only where the DPDP framework is relevant.,Reference mapping - applicability not assessed
+CTL-06,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-06,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-06,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-07,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-07,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-07,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-07,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-08,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-08,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-08,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-08,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-09,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-09,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-09,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-09,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-10,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-10,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-10,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-10,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-11,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-11,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-11,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-11,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-12,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-12,EU-AI-ACT,Binding EU regulation within its territorial and material scope. Applicability and system classification are not established by this benchmark project.,Reference mapping - applicability not assessed
+CTL-12,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-12,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-12,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-12,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-13,IN-DPDP-ACT-2023,Binding legislation subject to territorial and material applicability and phased commencement. Apply only where digital personal data processing falls within scope.,Reference mapping - applicability not assessed
+CTL-13,IN-DPDP-RULES-2025,Binding subordinate legislation subject to phased commencement. Apply only where the DPDP framework is relevant.,Reference mapping - applicability not assessed
+CTL-13,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-13,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-14,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-14,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-14,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-14,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-14,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-15,IN-TRAI-AI-DRAFT-2026,Draft consultation released 30 October 2026. Not treated as final binding guidance; sector-specific to telecommunications.,Reference mapping - applicability not assessed
+CTL-15,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-15,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-16,IN-AI-GOV-2025,Indian government policy guidance. Principle mapping only; not a standalone binding AI statute.,Reference mapping - applicability not assessed
+CTL-16,IN-DPDP-ACT-2023,Binding legislation subject to territorial and material applicability and phased commencement. Apply only where digital personal data processing falls within scope.,Reference mapping - applicability not assessed
+CTL-16,IN-DPDP-RULES-2025,Binding subordinate legislation subject to phased commencement. Apply only where the DPDP framework is relevant.,Reference mapping - applicability not assessed
+CTL-16,EU-AI-ACT,Binding EU regulation within its territorial and material scope. Applicability and system classification are not established by this benchmark project.,Reference mapping - applicability not assessed
+CTL-16,NIST-AI-RMF,"Voluntary risk management framework. Use its Govern, Map, Measure and Manage functions as an analytical reference. Revision is in progress.",Reference mapping - applicability not assessed
+CTL-16,ISO-42001,International AI management system standard. Mapping does not establish ISO conformity or certification.,Reference mapping - applicability not assessed
+CTL-16,ISO-42005,"International AI system impact assessment standard. Used as a methodological reference, not as a certification.",Reference mapping - applicability not assessed
+CTL-16,OECD-AI-PRINCIPLES,Non-binding intergovernmental principles for trustworthy and human-centric AI.,Reference mapping - applicability not assessed
+CTL-16,IN-TRAI-AI-DRAFT-2026,Draft consultation released 30 October 2026. Not treated as final binding guidance; sector-specific to telecommunications.,Reference mapping - applicability not assessed

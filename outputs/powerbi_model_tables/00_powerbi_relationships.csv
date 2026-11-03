@@ -1,0 +1,9 @@
+one_side_table,one_side_column,many_side_table,many_side_column,cardinality,cross_filter_direction
+dim_model,model,fact_dimension_score,model,One-to-many,Single
+dim_model,model,fact_selected_case,model,One-to-many,Single
+dim_governance_dimension,dimension,fact_dimension_score,dimension,One-to-many,Single
+dim_case,case_id,fact_selected_case,case_id,One-to-many,Single
+dim_region,region,fact_region_summary,region,One-to-one,Single
+dim_framework,framework_id,bridge_control_framework,framework_id,One-to-many,Single
+dim_control,control_id,bridge_control_framework,control_id,One-to-many,Single
+dim_control,control_id,bridge_control_evidence,control_id,One-to-many,Single

@@ -1,0 +1,25 @@
+﻿model,dimension,score,score_scale_min,score_scale_max,reported_model_responses_scored,source_date,data_basis
+sarvam-30b,Safety,8.7,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,Privacy,9.17,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,Fairness,7.65,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,Reliability,7.18,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,User Impact,7.48,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,Inclusivity,6.61,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,Transparency,6.44,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-30b,Accountability,6.2,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Safety,8.72,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Privacy,9.24,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Fairness,7.64,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Reliability,7.16,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,User Impact,7.46,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Inclusivity,6.61,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Transparency,6.44,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-105b,Accountability,6.2,0,10,206,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Safety,8.2,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Privacy,9.17,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Fairness,7.48,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Reliability,7.07,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,User Impact,7.32,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Inclusivity,6.38,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Transparency,6.29,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows
+sarvam-m,Accountability,5.99,0,10,202,2026-03-12,Publisher-reported model leaderboard; not recalculated from response rows

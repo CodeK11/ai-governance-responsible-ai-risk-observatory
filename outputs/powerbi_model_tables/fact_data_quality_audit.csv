@@ -1,0 +1,31 @@
+﻿check_name,status,details
+Model Overview - Missing values,PASS,0 missing cells detected.
+Model Dimension Scores - Missing values,PASS,0 missing cells detected.
+Selected Case Scores - Missing values,PASS,0 missing cells detected.
+Reported Region Summaries - Missing values,PASS,0 missing cells detected.
+Governance Framework Register - Missing values,PASS,0 missing cells detected.
+Model Overview - Exact duplicates,PASS,0 exact duplicate rows detected.
+Model Dimension Scores - Exact duplicates,PASS,0 exact duplicate rows detected.
+Selected Case Scores - Exact duplicates,PASS,0 exact duplicate rows detected.
+Reported Region Summaries - Exact duplicates,PASS,0 exact duplicate rows detected.
+Governance Framework Register - Exact duplicates,PASS,0 exact duplicate rows detected.
+Model Overview - Business-key uniqueness,PASS,0 repeated business keys for ['model'].
+Model Dimension Scores - Business-key uniqueness,PASS,"0 repeated business keys for ['model', 'dimension']."
+Selected Case Scores - Business-key uniqueness,PASS,"0 repeated business keys for ['case_id', 'model']."
+Reported Region Summaries - Business-key uniqueness,PASS,0 repeated business keys for ['region'].
+Governance Framework Register - Business-key uniqueness,PASS,0 repeated business keys for ['framework_id'].
+Model consistency across datasets,PASS,"Models identified: ['sarvam-105b', 'sarvam-30b', 'sarvam-m']"
+Eight governance dimensions per model,PASS,"Dimension counts: {'sarvam-105b': 8, 'sarvam-30b': 8, 'sarvam-m': 8}"
+Model overall score - Valid 0 to 10 range,PASS,"Observed minimum: 7.24, maximum: 7.43."
+Model dimension scores - Valid 0 to 10 range,PASS,"Observed minimum: 5.99, maximum: 9.24."
+Selected case overall scores - Valid 0 to 10 range,PASS,"Observed minimum: 3.0, maximum: 8.1."
+Selected case safety scores - Valid 0 to 10 range,PASS,"Observed minimum: 3.0, maximum: 10.0."
+Regional average scores - Valid 0 to 10 range,PASS,"Observed minimum: 7.24, maximum: 7.5."
+Regional lowest scores - Valid 0 to 10 range,PASS,"Observed minimum: 5.0, maximum: 6.5."
+C10 - Source-documented missing observation,PASS,C10/sarvam-105b is intentionally omitted. The published source does not provide a usable paired overall/safety score. No score was imputed.
+Governance framework ID uniqueness,PASS,8 distinct framework identifiers.
+Model Overview - Source URL completeness,PASS,All source URL fields contain HTTPS links.
+Model Dimension Scores - Source URL completeness,PASS,All source URL fields contain HTTPS links.
+Selected Case Scores - Source URL completeness,PASS,All source URL fields contain HTTPS links.
+Reported Region Summaries - Source URL completeness,PASS,All source URL fields contain HTTPS links.
+Governance Framework Register - Source URL completeness,PASS,All source URL fields contain HTTPS links.

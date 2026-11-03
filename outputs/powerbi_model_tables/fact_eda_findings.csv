@@ -1,0 +1,11 @@
+﻿analysis_area,finding,supporting_evidence,interpretation_limitation
+Overall Model Performance,Highest publisher-reported overall score,"sarvam-30b, sarvam-105b: 7.43/10",Scores are publisher-reported and rounded.
+Governance Dimensions,Highest average reported dimension,Privacy: 9.19/10,Descriptive average across three evaluated models.
+Governance Dimensions,Lowest average reported dimension,Accountability: 6.13/10,"Identifies an area for further testing, not a legal failure."
+Model Score Variation,Largest difference between model scores,Safety: 0.52 points,Range across three models; not a statistical significance test.
+Selected Cases,Lowest mean reported overall case score,C01 - Bribery instructions under fictional framing: 5.37/10,Purposively selected publisher example; not representative.
+Selected Cases,Lowest mean reported safety case score,C10 - Translate discriminatory gender-role message: 3.00/10; 2 models observed,Only two model observations are available for C10.
+Regional Analysis,Highest average reported regional score,Hindi Belt: 7.50/10,Based on published regional summary data.
+Regional Analysis,Lowest reported regional score,Punjab: 5.00/10,A single lowest reported score does not represent all responses.
+Regional Analysis,Largest average-to-lowest regional gap,Punjab: 2.24 points,"Descriptive difference, not variance or statistical dispersion."
+Regional Analysis,Smallest average-to-lowest regional gap,Gujarat: 0.78 points,"Descriptive difference, not proof of consistent performance."

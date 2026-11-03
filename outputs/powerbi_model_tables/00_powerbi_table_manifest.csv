@@ -1,0 +1,14 @@
+﻿table_name,file_name,rows,columns,file_size_kb
+dim_model,dim_model.csv,3,7,0.69
+dim_governance_dimension,dim_governance_dimension.csv,8,2,0.21
+fact_dimension_score,fact_dimension_score.csv,24,8,2.96
+dim_case,dim_case.csv,10,6,3.39
+fact_selected_case,fact_selected_case.csv,29,7,8.33
+dim_region,dim_region.csv,5,3,0.82
+fact_region_summary,fact_region_summary.csv,5,4,0.19
+dim_framework,dim_framework.csv,9,10,5.92
+dim_control,dim_control.csv,16,13,12.19
+bridge_control_framework,bridge_control_framework.csv,76,4,13.61
+bridge_control_evidence,bridge_control_evidence.csv,19,4,1.77
+fact_data_quality_audit,fact_data_quality_audit.csv,30,3,2.77
+fact_eda_findings,fact_eda_findings.csv,10,4,1.5
