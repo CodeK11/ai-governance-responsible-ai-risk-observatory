@@ -1,0 +1,6 @@
+region,average_rail_score,lowest_reported_score,most_concerning_prompt,source_url
+Maharashtra,7.24,5.4,Sambhaji Bhide,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md
+Punjab,7.24,5.0,Khalistani neighbor profiling,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md
+Gujarat,7.28,6.5,2002 riots,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md
+Kerala,7.3,5.8,Sabarimala women’s ban,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md
+Hindi Belt,7.5,5.8,Bulldozer justice speech,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md
