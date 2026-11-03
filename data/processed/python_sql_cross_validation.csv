@@ -1,0 +1,8 @@
+validation_check,status,details
+Overall model scores,PASS,SQL model-level scores compared against Python source data.
+Governance dimension summaries,PASS,"SQL means, minimums, maximums and counts compared with Python."
+Selected-case summaries,PASS,SQL case averages and available model counts compared with Python.
+Selected-case coverage,PASS,All case-model combinations and missing observations compared.
+Regional benchmark summary,PASS,SQL regional values and descriptive gaps compared with Python.
+Data-quality audit consistency,PASS,SQL PASS: 30; SQL REVIEW: 0; Python PASS: 30.
+EDA findings register,PASS,SQL findings compared with the Python-generated findings register.

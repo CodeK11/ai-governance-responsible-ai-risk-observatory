@@ -1,0 +1,6 @@
+dataset,source_rows,prepared_rows,rows_removed,transformation
+model_overview,3,3,0,Text whitespace standardisation and date conversion where applicable; no records removed.
+model_dimension_scores,24,24,0,Text whitespace standardisation and date conversion where applicable; no records removed.
+selected_case_scores,29,29,0,Text whitespace standardisation and date conversion where applicable; no records removed.
+reported_region_summaries,5,5,0,Text whitespace standardisation and date conversion where applicable; no records removed.
+governance_framework_register,8,8,0,Text whitespace standardisation and date conversion where applicable; no records removed.
