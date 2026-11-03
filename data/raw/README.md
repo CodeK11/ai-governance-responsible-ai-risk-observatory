@@ -1,59 +1,46 @@
 # Raw Source Data
 
-This directory contains the original input datasets assembled for the AI Governance & Responsible AI Risk Observatory.
+This directory contains the five original input CSV files assembled for the **AI Governance & Responsible AI Risk Observatory**. These inputs are kept separate from the cleaned and derived datasets in `data/processed/`.
+
+## Files
 
 | File | Description |
 |---|---|
-| model_overview.csv | Published model-level benchmark summaries |
-| model_dimension_scores.csv | Published scores across governance dimensions |
-| selected_case_scores.csv | Available model scores for selected benchmark cases |
-| reported_region_summaries.csv | Publisher-reported regional benchmark summaries |
-| governance_framework_register.csv | Initial governance and regulatory framework reference register |
+| `model_overview.csv` | Publisher-reported model-level benchmark summaries. |
+| `model_dimension_scores.csv` | Publisher-reported scores across the benchmark's governance dimensions. |
+| `selected_case_scores.csv` | Available model observations for selected benchmark cases. |
+| `reported_region_summaries.csv` | Publisher-reported regional summary values and examples. |
+| `governance_framework_register.csv` | Initial project-compiled reference register for AI governance and regulatory instruments. The maintained nine-entry version is in `data/processed/governance_framework_register_current.csv`. |
 
-## Data handling notes
+## Benchmark source and licensing
 
-- Original source inputs are preserved separately from processed analytical datasets.
-- Publisher-reported scores are not independently re-scored.
-- Selected case examples are not representative of the full benchmark population.
-- Missing source observations are retained and documented rather than imputed.
-- Source attribution, publication dates and applicable redistribution terms should be checked before reuse.## Benchmark Source and Licensing
+The benchmark-derived input data is based on the **Indian Responsible AI Benchmark**, published by Responsible AI Labs. The project records the benchmark source date as **12 March 2026**.
 
-The benchmark-derived datasets in this project are based on the following public research resource:
+- Dataset: <https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark>
+- Publisher announcement: <https://responsibleailabs.ai/announcements/huggingface-datasets-2026>
+- Licence declared on the publisher's dataset page: MIT
 
-**Indian Responsible AI Benchmark**
+The upstream publisher and dataset page remain the authoritative references for the source material and its current licence notice. This repository retains source attribution and does not claim ownership of the upstream benchmark.
 
-- Publisher: Responsible AI Labs
-- Publication date: 12 March 2026
-- Source: https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark
-- Licence declared by publisher: MIT
+## Project-derived benchmark files
 
-The publisher's dataset card identifies the benchmark as MIT-licensed. Its announcement also confirms that the dataset is publicly available under the MIT licence.
-
-### Project-derived files
-
-The following CSVs contain project-organised summaries, extracts or transformations based on the published benchmark and its evaluation documentation:
+The following files contain project-organised summaries or extracts based on the published benchmark and its accompanying documentation:
 
 - `model_overview.csv`
 - `model_dimension_scores.csv`
 - `selected_case_scores.csv`
 - `reported_region_summaries.csv`
 
-These files are not the result of independent model response testing or re-scoring.
+They are not the result of independent model response testing, original red-teaming or re-scoring of raw model responses.
 
-### Citation
+## Governance register note
 
-```bibtex
-@dataset{indian_rai_benchmark_2026,
-  title={Indian Responsible AI Benchmark},
-  author={Responsible AI Labs},
-  year={2026},
-  url={https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark},
-  note={212 prompts, 22 categories, 10 Indian regions, 8 RAIL dimensions}
-}
-```
+`governance_framework_register.csv` is a separately compiled project reference register; it is not part of the upstream benchmark dataset. Its entries should be interpreted alongside their respective source URLs and official materials. The maintained current register and its change log are published in `data/processed/`.
 
-### Additional note
+## Data handling and interpretation
 
-`governance_framework_register.csv` is a separately compiled project reference register. Its entries should be consulted alongside their respective official source links. It is not part of the upstream RAIL benchmark dataset.
-
-Third-party rights and licences remain with their respective owners.
+- Original input files are preserved separately from cleaned and derived analytical datasets.
+- Publisher-reported scores are not independently re-scored.
+- Selected case examples are purposively selected and are not representative of the full benchmark response population.
+- Missing source observations are retained and documented rather than imputed.
+- Source attribution, publication dates and applicable redistribution terms should be checked before reuse.
