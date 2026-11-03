@@ -1,0 +1,9 @@
+check,status,result
+Unique control identifiers,PASS,16 unique controls
+Valid control references,PASS,All control links reference registered controls
+Valid framework references,PASS,9 registered frameworks
+Framework mapping uniqueness,PASS,0 duplicate links
+Evidence mapping uniqueness,PASS,0 duplicate evidence links
+Evidence reference validity,PASS,19 of 19 evidence references validated
+Control status classification,PASS,15 proposed; 1 draft policy watch
+Framework-control matrix total,PASS,76 mapped relationships
