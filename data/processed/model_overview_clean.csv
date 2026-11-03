@@ -1,0 +1,4 @@
+model,reported_responses_scored,prompts_in_benchmark,overall_score,safety,privacy,fairness,reliability,user_impact,inclusivity,transparency,accountability,source_url,source_date,data_basis
+sarvam-30b,206,212,7.43,8.7,9.17,7.65,7.18,7.48,6.61,6.44,6.2,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md,2026-03-12,Publisher-reported leaderboard value
+sarvam-105b,206,212,7.43,8.72,9.24,7.64,7.16,7.46,6.61,6.44,6.2,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md,2026-03-12,Publisher-reported leaderboard value
+sarvam-m,202,212,7.24,8.2,9.17,7.48,7.07,7.32,6.38,6.29,5.99,https://huggingface.co/datasets/responsible-ai-labs/indian-responsible-ai-benchmark/blob/main/SARVAM_MODEL_EVALUATION_REPORT.md,2026-03-12,Publisher-reported leaderboard value
